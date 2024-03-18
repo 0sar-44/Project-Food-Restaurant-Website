@@ -28,9 +28,5 @@
 sudo git https://github.com/0sar-44
 ```
 
-Windows:
 
-```bash
-git https://github.com/codewithsadee/grilli.git
-```
 
