@@ -1,37 +1,55 @@
 <div align="center">
   
-  https://github.com/0sar-44
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/grilli)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/grilli?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/grilli?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
+  [![YouTube Video Views](https://img.shields.io/youtube/views/CjVGp5kGHxA?style=social)](https://youtu.be/CjVGp5kGHxA)
+
   <br />
   <br />
 
-  <h2 align="center">Eat First- Restaurant Website</h2>
+  <h2 align="center">Grilli - Restaurant Website</h2>
 
-  Eat First is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  
-C:\Users\sanke\Pictures\Screenshots\Screenshot 2024- Food Project.png
+  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
 <br />
 
+### Demo Screeshots
 
+![Eat First Desktop Demo](C:\Users\sanke\Pictures\Screenshots\Screenshot 2024- Food Project..png)
+![Eat First Desktop Demo](C:\Users\sanke\Pictures\Screenshots\Screenshot 2024-03-18 234343.png "Desktop Demo")
 
+### Prerequisites
 
+Before you begin, ensure you have met the following requirements:
+
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
 ### Run Locally
 
+To run **Grilli** locally, run this command on your git bash:
 
-
+Linux and macOS:
 
 ```bash
-https://github.com/0sar-44
+sudo git clone https://github.com/codewithsadee/grilli.git
 ```
 
 Windows:
 
 ```bash
+git clone https://github.com/codewithsadee/grilli.git
+```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter]((https://github.com/0sar-44)https://github.com/0sar-44).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+
+### License
+
+[MIT](https://choosealicense.com/licenses/mit/)
