@@ -1,1 +1,36 @@
 
+
+  <br />
+  <br />
+
+  <h2 align="center">Eat First - Restaurant Website</h2>
+
+ Eat First  is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+
+ 
+
+</div>
+
+<br />
+
+### Demo 
+
+ <a href="http://127.0.0.1:5501/Food-restaurant-website/index-1.html"><strong>➥ Live Demo</strong></a>
+
+
+
+
+
+
+
+
+```bash
+sudo git https://github.com/0sar-44
+```
+
+Windows:
+
+```bash
+git https://github.com/codewithsadee/grilli.git
+```
+
