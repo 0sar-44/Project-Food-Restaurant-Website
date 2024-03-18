@@ -19,10 +19,9 @@
 
 <br />
 
-### Demo Screeshots
+### Demo 
 
-![Eat First Desktop Demo](C:\Users\sanke\Pictures\Screenshots\Screenshot 2024- Food Project..png)
-![Eat First Desktop Demo](C:\Users\sanke\Pictures\Screenshots\Screenshot 2024-03-18 234343.png "Desktop Demo")
+ <a href="http://127.0.0.1:5501/Food-restaurant-website/index-1.html"><strong>➥ Live Demo</strong></a>
 
 ### Prerequisites
 
