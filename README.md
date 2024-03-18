@@ -9,7 +9,7 @@
   Eat First is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   
-C:\Users\sanke\Pictures\Screenshots\Screenshot 2024- Food Project..png
+C:\Users\sanke\Pictures\Screenshots\Screenshot 2024- Food Project.png
 
 </div>
 
