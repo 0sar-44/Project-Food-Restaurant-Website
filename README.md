@@ -20,9 +20,8 @@
 
 ### Run Locally
 
-To run **Grilli** locally, run this command on your git bash:
 
-Linux and macOS:
+
 
 ```bash
 https://github.com/0sar-44
@@ -31,7 +30,6 @@ https://github.com/0sar-44
 Windows:
 
 ```bash
-[g
 
 ### Contact
 
