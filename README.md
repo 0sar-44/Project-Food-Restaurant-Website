@@ -25,7 +25,7 @@
 
 
 ```bash
-sudo git https://github.com/0sar-44
+ git https://github.com/0sar-44
 ```
 
 
